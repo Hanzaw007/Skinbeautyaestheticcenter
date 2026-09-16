@@ -1,2 +1,2 @@
 # Skinbeautyaestheticcenter
-J2EE Project
+J2EE Projects
